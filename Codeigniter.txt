@@ -1,0 +1,3 @@
+https://www.codeigniter.com/userguide3/installation/downloads.html?highlight=download%20codeigniter
+
+https://www.codeigniter.com/userguide3/search.html?q=htaccess&check_keywords=yes&area=default /*.htacess*/
